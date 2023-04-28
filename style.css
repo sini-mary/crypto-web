@@ -1,0 +1,252 @@
+.list{
+    
+    word-spacing: 100pt;
+    padding-left: 9%;
+}
+#button2{
+   background-color: rgb(92, 235, 92);
+   font:100;
+   font-size: 16px;
+   height: 50px;
+   width: 20%;
+
+}
+.home{
+    font-size: 60px;
+}
+.Home{
+    padding-left: 9%;
+    display: flex;
+}
+.secure{
+    color: rgb(128, 219, 128);
+}
+.cryptocurrency{
+    color: rgb(78, 205, 163);
+}
+.border{
+    background-color: rgb(25, 227, 25);
+    border:solid black;
+    padding-top: 5%;
+    position: relative;
+    top: 35px;
+
+}
+.buy{
+    position: relative;
+    top: 40px;
+    padding-left: 9%;
+}
+.button3{
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+}
+.table{
+    padding-top: 70px;
+    padding-left: 9%;
+    
+}
+.table1 {
+    padding-top: 70px;
+    padding-left: 9%;
+    border-spacing: 70px;
+    text-align: center;
+    
+}
+.wallets{
+    display: flex;
+    padding-left: 9%;
+    font-size: 20px;
+    
+}
+.vault{
+    position: relative;
+    top: 70px;
+    padding-left:3% ;
+    border: solid  black;
+    height: 300px;
+    background-color: rgb(110, 107, 107);
+}
+.best{
+    padding-top: 35px;
+    padding-left: 15%;
+    height: 500px;
+}
+.easy{
+    border: solid black;
+    height: 300px;
+    background-color: rgb(110, 107, 107);
+}
+.ecosystem{
+    border: solid black;
+    height: 300px;
+    background-color: rgb(110, 107, 107);
+    
+    
+}
+.cree{
+    display: flex;
+    padding-left: 9%;
+   
+}
+.ree{
+    padding-left: 15%;
+    padding-bottom: 40%;
+    border: solid black;
+    height: 2px;
+    
+
+}
+#zee{
+    padding-left: 15%;
+    border: solid black;
+    height: 300px;
+    margin-top: 60px;
+    background-color: linear-gradient(rgb(231, 104, 125));
+    
+}
+.dree{
+    height: 30px;
+}
+#rees{
+    height: 300px;
+    border: solid black;
+    width: 20%;
+    padding-bottom: 20px;
+    background: #e0efe3;
+}
+.we{
+    padding-left: 5%;
+}
+#a{
+    border: solid black;
+    height: 150px;
+    width: 24%;
+}
+.clarity{
+    display: flex;
+}
+#get{
+    color: green;
+}
+.build{
+    display: flex;
+    font-size: 26px;
+    padding-left: 9%;
+}
+#ready{
+    color:green ;
+}
+#in{
+    height: 60px;
+    width: 40%;
+    border-radius: 20px;
+}
+.start{
+    height:60px ;
+    width: 10%;
+    border-radius: 20px;
+}
+.ready{
+    padding-left: 17%;
+   border: solid grey;
+}
+.footer{
+    display: flex;
+    padding-left: 9%;
+    margin-left: 20px;
+    gap: 4em;
+    font-size: 20px;
+}
+.body{
+    background-image:linear-gradient(#2B213A,#37363D,#121314);
+    color: antiquewhite;
+}
+#button1{
+    height: 40px;
+    background-color: #2B213A;
+    color: aliceblue;
+}
+.newworld{
+    display: flex;
+}
+#btn1{
+    height: 40px;
+    background-color: greenyellow;
+}
+@media (max-width:480px) {
+    .Home{
+        font-size: 7px;
+        
+    }
+    
+}
+@media (min-width:200px) and (max-width:768px) {
+    .Home{
+        font-size: 16px;
+    }
+ }
+ @media (min-width:480px) {
+    .table{
+        font-size: 7px;
+        padding-right: 100%;
+        
+    }
+    
+}
+@media (min-width:480px){
+    .wallets{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+@media (min-width:480px){
+    .cree{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media (max-width:720px){
+    .cree{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media (max-width:720px){
+    .footer{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+@media (min-width:480px){
+    .cree{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}@media (min-width:480px){
+    .newworld{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    }@media (max-width:720px){
+        .s{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+        }
+    }
+    @media (min-width:480px){
+        .s{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            
+        }
+    }
+
+
+
+
+
+
+
